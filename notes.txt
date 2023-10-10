@@ -1,0 +1,2 @@
+To install bootstrap framework, it can be done of two ways.
+Via cdn, or compiled files abailable on official documentation: https://getbootstrap.com/docs/5.3/getting-started/introduction/
